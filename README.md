@@ -62,3 +62,18 @@ Model Not Found: Verify the model file `your_model.h5` is placed correctly in th
 This project demonstrates the use of CNN-based architectures for sound classification. The two different models trained and evaluated as part of this project showcase the versatility of CNNs in handling audio data transformed for image-like processing. The testing script provides an easy-to-use interface for generating predictions on new audio samples.
 
 For more details on the implementation and model architectures, please refer to the individual scripts and the documentation within the code.
+
+# Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+# Contact
+Created by `Ojasva Goyal` - feel free to contact me at ojasvagoyal9@gmail.com for any questions or feedback.
+
+
